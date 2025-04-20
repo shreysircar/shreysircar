@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Shrey+Sircar+%7C+Coder+%F0%9F%8E%B5+%7C+Music+Content+Creator+%F0%9F%8E%B6;Full+Stack+App+Developer+%F0%9F%93%B1;AI%2FML+Explorer+%F0%9F%A7%A0;Flutter+Dev+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
+
 ---
 
 ## 🚀 About Me
