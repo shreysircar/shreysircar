@@ -78,20 +78,20 @@
 ## 🔥 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreysircar&show_icons=true&theme=radical&hide=issues" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=shreysircar&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shreysircar&show_icons=true&theme=tokyonight&hide=issues" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=shreysircar&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
 ## 📸 Connect With Me
 
-| Platform | Link |
-|---------|------|
-| 📧 Email | [sircarshrey@gmail.com](mailto:sircarshrey@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/shreysircar](https://www.linkedin.com/in/shrey-sircar-907629283) |
-| 🎶 Instagram (Music) | [@shreyysircar](https://www.instagram.com/shreyysircar/) |
-| 👨‍💻 GitHub | [github.com/shreysircar](https://github.com/shreysircar) |
+<p align="center">
+  <a href="mailto:sircarshrey@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shrey-sircar-907629283"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/shreyysircar/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/shreysircar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
@@ -109,4 +109,4 @@
 
 _Still here? Take a deep breath, vibe to your favorite song, and then let’s build something extraordinary._
 
-🌿 Stay Curious. Stay Musical. Stay You.
+🎸 Stay Curious. Stay Musical. Stay You.
