@@ -89,7 +89,7 @@
 
 | Platform | Link |
 |---------|------|
-| 📧 Email | [shreysircar@gmail.com](mailto:shreysircar@gmail.com) |
+| 📧 Email | [sircarsshrey@gmail.com](mailto:sircarshrey@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/shreysircar](https://www.linkedin.com/in/shrey-sircar-907629283) |
 | 🎶 Instagram (Music) | [@shreyysircar](https://www.instagram.com/shreyysircar/) |
 | 👨‍💻 GitHub | [github.com/shreysircar](https://github.com/shreysircar) |
