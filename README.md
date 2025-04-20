@@ -1,12 +1,10 @@
-<h1 align="center">🎧 Shrey Sircar | Coder 🎯 Creator 🎵</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Flutter+Dev+%F0%9F%93%B1;AI%2FML+Explorer+%F0%9F%A7%A0;Music+Content+Creator+%F0%9F%8E%B6;Full+Stack+App+Developer+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Shrey+Sircar+%7C+Coder+%F0%9F%8E%B5+Creator+%F0%9F%8E%B8+%7C+Music+Content+Creator+%F0%9F%8E%B6;Full+Stack+App+Developer+%F0%9F%93%B1;AI%2FML+Explorer+%F0%9F%A7%A0;Flutter+Dev+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 A Little About Me
+## 🚀 About Me
 
 🎓 **2nd Year CSE Student** @ JIIT Noida | India | Grad 2027  
 💻 Flutter Developer | 🤖 AI/ML Explorer | 🎶 Social Music Creator  
@@ -51,7 +49,10 @@
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-000000?logo=python&logoColor=white)  <!-- Changed DSA icon to something more algorithm-related -->
+![DSA](https://img.shields.io/badge/DSA-%23F0F8FF?logo=brain&logoColor=black)
+
+
+
 
 ### 💻 Dev + Tools
 
@@ -89,7 +90,7 @@
 
 | Platform | Link |
 |---------|------|
-| 📧 Email | [sircarsshrey@gmail.com](mailto:sircarshrey@gmail.com) |
+| 📧 Email | [sircarshrey@gmail.com](mailto:sircarshrey@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/shreysircar](https://www.linkedin.com/in/shrey-sircar-907629283) |
 | 🎶 Instagram (Music) | [@shreyysircar](https://www.instagram.com/shreyysircar/) |
 | 👨‍💻 GitHub | [github.com/shreysircar](https://github.com/shreysircar) |
