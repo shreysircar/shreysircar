@@ -20,7 +20,7 @@
 |--------|-------------|---------|
 | 🎵 **Musings** | Music streaming app with heartbeat-based suggestions, 360° audio, remix modes & "hum to search" AI | <img src="https://cdn-icons-png.flaticon.com/512/727/727245.png" width="30"/> _Coming Soon_ |
 | 🧠 **ZephAI** | A powerful AI stack with music + mood + media capabilities | ✅ _Done_ |
-| 🧭 **FluxNav** | Real-time navigation app using Google Maps, GetX, and OAuth | 🚧 _In Progress_ |
+| 🧭 **FluxNav** | Real-time navigation app using Google Maps, GetX, and OAuth | ✅ _Done_ |
 | 🛒 **eCommerce App** | Flutter-based modular app with full backend integration, cart, and favorites | 🛍️ _In Progress_ |
 
 ---
