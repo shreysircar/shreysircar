@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 🎓 **2nd Year CSE Student** @ JIIT Noida | India  
-💻 Flutter Developer | 🤖 AI/ML Explorer | 🎶 Social Music Creator  
+💻 App Developer | 🤖 AI/ML Explorer | 🎶 Social Music Creator  
 🎵 Making apps that *feel* and music that *speaks*
 
 > Currently building apps that blend code, creativity, and cognition.
