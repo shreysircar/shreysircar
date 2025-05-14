@@ -17,20 +17,21 @@
 ## 🎨 Featured Projects
 
 | Project | Description | Status |
-|--------|-------------|---------|
+|--------|-------------|--------|
 | 🎵 **Musings** | Music streaming app with heartbeat-based suggestions, 360° audio, remix modes & "hum to search" AI | <img src="https://cdn-icons-png.flaticon.com/512/727/727245.png" width="30"/> _In Progress_ |
 | 🧠 **ZephAI** | A smart chatbot powered by the Gemini API — it can summarize articles, analyze emotions, generate creative content, and assist with productivity tasks like scheduling and reminders | ✅ _Done_ |
 | 🧭 **FluxNav** | A Delhi Metro (DMRC) companion app offering nearest station detection (using Google Maps), shortest route planning (using DSA) | ✅ _Done_ |
 
+---
 
 ## 🌐 Music Meets Code
 
 🎶 I also create music content on social media — covers, remixes, and vibe curation  
 🎹 Working to bridge **music + machine learning** for emotional listening experiences  
 🧠 Using ML for:
-- Predictive audio-based mood detection
-- Personalized playlists based on biometric + user behavior
-- AI remixing (Lo-fi, acoustic, club vibes)
+- Predictive audio-based mood detection  
+- Personalized playlists based on biometric + user behavior  
+- AI remixing (Lo-fi, acoustic, club vibes)  
 
 > “Where words fail, tech + tunes speak.”
 
@@ -40,36 +41,34 @@
 
 ### 🧱 Core Skills
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-%23F0F8FF?logo=brain&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-000000?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ### 💻 Dev + Tools
 
-![REST](https://img.shields.io/badge/REST-34b7f1?logo=rest&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-4E73B2?logo=oauth&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSockets-000000?logo=websocket&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F1502F?logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-1F1F1F?logo=figma&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white)
-![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?logo=firebase&logoColor=white)
+![REST](https://img.shields.io/badge/REST-34b7f1?style=for-the-badge&logo=apachespark&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-4E73B2?style=for-the-badge&logo=oauth&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1F1F1F?style=for-the-badge&logo=figma&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 ---
 
 ## 🧠 Currently Learning
 
-- Advanced AI for edge devices (Flutter)
-- Audio signal processing
-- Cloud functions + real-time sync in Firebase
-- Android Jetpack (for native modules)
-- Backend Development 
+- Advanced AI for edge devices (Flutter)  
+- Audio signal processing  
+- Cloud functions + real-time sync in Firebase  
+- Android Jetpack (for native modules)  
+- Backend Development  
 
 ---
 
@@ -95,9 +94,9 @@
 
 ## 💡 Fun Facts
 
-- I built a music app that plays your favorite tracks and shows trending videos — it’s like Spotify and YouTube teamed up, and I brought them to life with Flutter magic.
+- I built a music app that plays your favorite tracks and shows trending videos — it’s like Spotify and YouTube teamed up, and I brought them to life with Flutter magic.  
 - Still waiting for Spotify to hit me up (👀)  
-- When I'm not coding, I’m either composing, remixing, or planning my next tech + music fusion
+- When I'm not coding, I’m either composing, remixing, or planning my next tech + music fusion  
 
 ---
 
