@@ -16,14 +16,12 @@
 
 ## 🎨 Featured Projects
 
-| Project | Description | Preview |
+| Project | Description | Status |
 |--------|-------------|---------|
-| 🎵 **Musings** | Music streaming app with heartbeat-based suggestions, 360° audio, remix modes & "hum to search" AI | <img src="https://cdn-icons-png.flaticon.com/512/727/727245.png" width="30"/> _Coming Soon_ |
-| 🧠 **ZephAI** | A powerful AI stack with music + mood + media capabilities | ✅ _Done_ |
-| 🧭 **FluxNav** | Real-time navigation app using Google Maps, GetX, and OAuth | ✅ _Done_ |
+| 🎵 **Musings** | Music streaming app with heartbeat-based suggestions, 360° audio, remix modes & "hum to search" AI | <img src="https://cdn-icons-png.flaticon.com/512/727/727245.png" width="30"/> _In Progress_ |
+| 🧠 **ZephAI** | A smart chatbot powered by the Gemini API — it can summarize articles, analyze emotions, generate creative content, and assist with productivity tasks like scheduling and reminders | ✅ _Done_ |
+| 🧭 **FluxNav** | A Delhi Metro (DMRC) companion app offering nearest station detection (using Google Maps), shortest route planning (using DSA) | ✅ _Done_ |
 
-
----
 
 ## 🌐 Music Meets Code
 
