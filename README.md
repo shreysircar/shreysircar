@@ -21,6 +21,7 @@
 | 🎵 **Musings** | Music streaming app with heartbeat-based suggestions, 360° audio, remix modes & "hum to search" AI | <img src="https://cdn-icons-png.flaticon.com/512/727/727245.png" width="30"/> _In Progress_ |
 | 🧠 **ZephAI** | A smart chatbot powered by the Gemini API — it can summarize articles, analyze emotions, generate creative content, and assist with productivity tasks like scheduling and reminders | ✅ _Done_ |
 | 🧭 **FluxNav** | A Delhi Metro (DMRC) companion app offering nearest station detection (using Google Maps), shortest route planning (using DSA) | ✅ _Done_ |
+| 📱 **Nexora** |------------------------------------------------------------------------------ | <img src="https://cdn-icons-png.flaticon.com/512/727/727245.png" width="30"/> _In Progress_ |
 
 ---
 
@@ -44,6 +45,9 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -55,6 +59,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-1F1F1F?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
@@ -66,9 +71,9 @@
 - Audio signal processing  
 - Cloud functions + real-time sync in Firebase  
 - Android Jetpack (for native modules)  
-- Backend Development
-- Web Sockets
-- AI/ML
+- Backend Development  
+- Web Sockets  
+- AI/ML  
 
 ---
 
