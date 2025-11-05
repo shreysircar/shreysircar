@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 🎓 **3rd Year CSE Student** @ JIIT Noida | India  
-💻 App Developer | 🤖 AI/ML Explorer | 🎶 Music Content Creator  
+💻 Software Developer | 🤖 AI/ML Explorer | 🎶 Music Content Creator  
 🎵 Making apps that *feel* and music that *speaks*
 
 > Currently building apps that blend code, creativity, and cognition.
