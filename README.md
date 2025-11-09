@@ -10,7 +10,7 @@
 💻 Software Developer | 🤖 AI/ML Explorer | 🎶 Music Content Creator  
 🎵 Making apps that *feel* and music that *speaks*
 
-> Currently building apps that blend code, creativity, and cognition.
+> Currently building solutions that blend code, creativity, and cognition.
 
 ---
 
@@ -22,19 +22,20 @@
 | 🧠 **ZephAI** | A smart chatbot powered by the Gemini API — it can summarize articles, analyze emotions, generate creative content, and assist with productivity tasks like scheduling and reminders | ✅ _Done_ |
 | 🧭 **FluxNav** | A Delhi Metro (DMRC) companion app offering nearest station detection (using Google Maps), shortest route planning (using DSA) | ✅ _Done_ |
 
-
 ---
 
-## 🌐 Music Meets Code
+## 🌐 Tech Meets Creativity
 
-🎶 I also create music content on social media — covers, remixes, and vibe curation  
-🎹 Working to bridge **music + machine learning** for emotional listening experiences  
-🧠 Using ML for:
-- Predictive audio-based mood detection  
-- Personalized playlists based on biometric + user behavior  
-- AI remixing (Lo-fi, acoustic, club vibes)  
+💡 I build seamless digital experiences across **web and mobile**, blending design, logic, and performance.  
+From crafting apps with **Flutter** to deploying full-stack systems using **Next.js**, **Node.js**, and **PostgreSQL**, I love turning ideas into scalable, production-ready solutions.
 
-> “Where words fail, tech + tunes speak.”
+🧩 Focus Areas:
+- Full-stack web apps (Next.js • Express • Prisma • PostgreSQL)  
+- Mobile app development with **Flutter & Firebase**  
+- Cloud deployment, Docker, and CI/CD automation  
+- Clean architecture, reusable components, and modern UI/UX  
+
+> “Where creativity meets computation — that’s where I love to build.”
 
 ---
 
@@ -48,6 +49,12 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-E91E63?style=for-the-badge&logo=framer&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -56,6 +63,9 @@
 ### 💻 Dev + Tools
 
 ![OAuth](https://img.shields.io/badge/OAuth-4E73B2?style=for-the-badge&logo=oauth&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-1F1F1F?style=for-the-badge&logo=figma&logoColor=white)
@@ -68,13 +78,15 @@
 ## 🧠 Currently Learning
 
 - Advanced AI for edge devices (Flutter)  
-- Audio signal processing  
-- Cloud functions + real-time sync in Firebase  
-- Android Jetpack (for native modules)  
-- Backend Development  
-- Web Sockets  
-- AI/ML  
-
+- Cloud functions + real-time sync (Firebase)  
+- Android Jetpack (native modules)  
+- Backend scalability with Node.js, Express & Prisma  
+- Docker & Containerization for scalable deployments  
+- CI/CD automation & environment configuration (Vercel, Docker Compose)  
+- Database optimization with PostgreSQL + Prisma  
+- Full-stack app performance & architecture design  
+- AI/ML integrations
+- DevOps
 ---
 
 ## 🔥 GitHub Analytics
@@ -91,7 +103,7 @@
 <p align="center">
   <a href="mailto:sircarshrey@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/shrey-sircar-907629283"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/shreyysircar/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/musingsbyshrey/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://github.com/shreysircar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -101,8 +113,8 @@
 
 - I built a music app that plays your favorite tracks and shows trending videos — it’s like Spotify and YouTube teamed up, and I brought them to life with Flutter magic.  
 - Still waiting for Spotify to hit me up (👀)  
-- When I'm not coding, I’m either composing, remixing, or planning my next tech + music fusion  
-
+- When I'm not coding, I’m either composing, remixing, or planning my next music fusion
+  
 ---
 
 ## 🏁 Final Words
