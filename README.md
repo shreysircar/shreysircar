@@ -14,13 +14,20 @@
 
 ---
 
+Got it — you want **Aegis added to that same table format**, matching style, emojis, and status formatting.
+
+Here’s the updated section **with Aegis included**:
+
+---
+
 ## 🎨 Featured Projects
 
-| Project | Description | Status |
-|--------|-------------|--------|
-| 🎵 **Musings** | Music streaming app - stream your favourite songs with a seamless experience | <img src="https://cdn-icons-png.flaticon.com/512/727/727245.png" width="30"/> _In Progress_ |
-| 🧠 **ZephAI** | A smart chatbot powered by the Gemini API — it can summarize articles, analyze emotions, generate creative content, and assist with productivity tasks like scheduling and reminders | ✅ _Done_ |
-| 🧭 **FluxNav** | A Delhi Metro (DMRC) companion app offering nearest station detection (using Google Maps), shortest route planning (using DSA) | ✅ _Done_ |
+| Project        | Description                                                                                                                                                       | Status                                                                                             |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| 🎵 **Musings** | Music streaming app — stream your favourite songs with a seamless experience                                                                                      | <img src="https://cdn-icons-png.flaticon.com/512/727/727245.png" width="30"/> *In Progress*        |
+| 🧠 **ZephAI**  | A smart chatbot powered by the Gemini API — summarizes articles, analyzes emotions, generates creative content, and assists with scheduling/reminders             | ✅ *Done*                                                                                           |
+| 🧭 **FluxNav** | A Delhi Metro (DMRC) companion app offering nearest station detection (Google Maps), shortest route planning (DSA), and route insights                            | ✅ *Done*                                                                                           |
+| 🔐 **Aegis**   | Predictive crime safety app for Chicago — ML-powered heatmaps, real-time risk forecasting, and community-level safety visualization (Flutter + FastAPI + XGBoost) | <img src="https://cdn-icons-png.flaticon.com/512/952/952743.png" width="30"/> *Active Development* |
 
 ---
 
