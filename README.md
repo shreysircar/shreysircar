@@ -22,14 +22,11 @@ Here’s the updated section **with Aegis included**:
 
 ## 🎨 Featured Projects
 
-| Project        | Description                                                                                                                                                       | Status                                                                                             |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| 🎵 **Musings** | Music streaming app — stream your favourite songs with a seamless experience                                                                                      | ✅ *Done*       |
-| 🧠 **ZephAI**  | A smart chatbot powered by the Gemini API — summarizes articles, analyzes emotions, generates creative content, and assists with scheduling/reminders             | ✅ *Done*                                                                                           |
-| 🧭 **FluxNav** | A Delhi Metro (DMRC) companion app offering nearest station detection (Google Maps), shortest route planning (DSA), and route insights                            | ✅ *Done*                                                                                           |
-| 🔐 **Aegis**   | Predictive crime safety app for Chicago — ML-powered heatmaps, real-time risk forecasting, and community-level safety visualization (Flutter + FastAPI + XGBoost) | ✅ *Done* |
-
----
+| Project        | Description                                                                                                                                                          | Status        |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| 🎵 **Musings** | Music streaming application built with Flutter and Firebase, featuring authentication, real-time sync, and YouTube API integration                                  | ✅ Done       |
+| 🛒 **Vaaya**   | Production-ready commerce management SaaS with a complete customer purchase workflow and an admin-first dashboard, built using Next.js, Node.js, and PostgreSQL      | ✅ Done       |
+| 🔐 **Aegis**   | Predictive crime safety app using ML-powered heatmaps and temporal risk forecasting with Flutter, FastAPI, and XGBoost                                              | ✅ Done       |
 
 ## 🌐 Tech Meets Creativity
 
