@@ -14,12 +14,6 @@
 
 ---
 
-Got it — you want **Aegis added to that same table format**, matching style, emojis, and status formatting.
-
-Here’s the updated section **with Aegis included**:
-
----
-
 ## 🎨 Featured Projects
 
 | Project        | Description                                                                                                                                                          | Status        |
