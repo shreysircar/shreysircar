@@ -27,18 +27,6 @@ Alongside full-stack development, I'm increasingly working with **Python, AI/ML,
 
 ---
 
-## 🤖 Agentic AI & AI/ML Work
-
-I've also worked on **AI-powered enterprise workflows and agentic systems**, including:
-
-- **Proposal Assistant** — AI-powered RFP analysis workflow developed during my AI/ML internship at Birlasoft.
-- **AG-UI integration** for real-time agent communication, streaming responses, state synchronization, and human-in-the-loop workflows.
-- Built backend workflows using **Node.js, Express.js, SSE, event-driven architecture, and reusable agent components**.
-- Worked with concepts surrounding **MCP, A2A, LangGraph, agent orchestration, and tool-based AI workflows**.
-- Currently exploring **RFP-specific SLMs, NLP, document intelligence, RAG, LoRA/QLoRA, and local AI inference** through Klaro.
-
----
-
 ## 💼 Experience
 
 ### 🤖 AI/ML Intern — Birlasoft
@@ -186,8 +174,6 @@ Continuously working toward building backend systems that are **modular, scalabl
 
 🧠 **400+ DSA problems solved** across competitive programming and interview preparation.
 
-- Completed the **Striver A2Z DSA Sheet**
-- Regular practice on **LeetCode**
 - Strong focus on arrays, strings, hashing, two pointers, sliding window, binary search, recursion, dynamic programming, graphs, and other core DSA concepts
 - Interested in combining strong problem-solving fundamentals with practical software engineering and system design
 
